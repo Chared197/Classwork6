@@ -1,7 +1,7 @@
 from random import randint
 
 turn = ["Rock", "Paper", "Scissors"]
-print("Welcome")
+print("Welcome to")
 
 computer = turn[randint(0,2)]
 player = False
